@@ -4,3 +4,4 @@ Build with react native, tools used {react-navigation},for Api purposes i have u
 > NewsApi urlpath :- 
 >> https://newsapi.org/docs/endpoints/top-headlines
 
+![picture alt](assets/download.gif)
